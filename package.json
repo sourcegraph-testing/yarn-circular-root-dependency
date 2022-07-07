@@ -1,0 +1,9 @@
+{
+  "name": "yarn-circular-root",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "@webassemblyjs/helper-code-frame": "1.8.5"
+  }
+}
